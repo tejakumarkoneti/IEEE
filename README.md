@@ -1,1 +1,1 @@
-# basic web-development project for IEEE club 
+# web-development project for IEEE club 
